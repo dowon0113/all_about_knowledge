@@ -24,5 +24,20 @@ DB : Oracle
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
-## ✒️ API
-포트원 본인인증 (KG이니시스) : https://developers.portone.io/docs/ko/readme?v=v2
+## 화면 설계
+- 강의상세
+<img width="1022" height="517" alt="image" src="https://github.com/user-attachments/assets/0c7e715e-0c8f-4a4d-8002-c3b71acd0098" />
+
+## ERD
+<img width="1931" height="886" alt="image" src="https://github.com/user-attachments/assets/2bc5ed04-c931-411c-8542-4007eeb1c6a3" />
+
+## 유스케이스
+- 비회원
+<img width="1574" height="734" alt="image" src="https://github.com/user-attachments/assets/6084910a-100f-4d75-944b-5eb85544097b" />
+- 회원
+<img width="1379" height="786" alt="image" src="https://github.com/user-attachments/assets/6faea24a-b6c6-4d08-a7f7-beda2c13cb36" />
+- 강사
+<img width="1636" height="761" alt="image" src="https://github.com/user-attachments/assets/855f0428-7fc4-448e-b95d-16f6a1cbd6e3" />
+- 관리자
+<img width="1015" height="826" alt="image" src="https://github.com/user-attachments/assets/fc140a31-aa1f-48aa-9a0e-b0dc464cb4b3" />
+
